@@ -128,6 +128,9 @@ I'm always eager to collaborate on exciting projects and contribute to meaningfu
 <a href="https://www.hackerrank.com/daspraveenhr1432?hr_r=1" target="blank">
     <img align="center" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8b9fc1fa-bb42-45c6-957b-3b6611c542f1.png?ixlib=react-9.0.3&ch=Width%2CDPR&auto=format&w=4088" alt="HackerRank" weight="30px" height="40px"></a>
     
+## 
+![image](https://github.com/daaspraveen/daaspraveen/assets/102827315/be3d296e-beba-4998-be83-032a651a34ce)
+##
 
 ## Badges
 
