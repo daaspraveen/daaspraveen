@@ -2,7 +2,7 @@
     <img src="github-banner small.png" alt="Dasari Praveenkumar" width="100%">
 </p>
 
-    🌱 Currently Exploring JavaScript Frameworks & Full-Stack Development
+    🌱 Currently Exploring Creative Ui with JavaScript Frameworks & Full-Stack Development
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=daaspraveen&label=Profile%20views&color=0e75b6&style=flat-square" alt="daaspraveen" />
@@ -19,25 +19,25 @@
 ---
     🔭 I’m currently working on     
     
-Marvel Universe API - A personal API for managing Marvel movies and series with detailed timelines and media releases.
+Marvel Univ Full-Stack - A personal API for managing Marvel movies and series with detailed timelines and media releases.
 
 ---
 
     🌱 I’m currently learning
     
-Advanced React, Node.js, Express, MongoDB, Next.js, and Full-Stack Development concepts.
+Advanced React, Next.js, Redux and Creative UI concepts.
 
 ---
 
     👯 I’m looking to collaborate on
 
-MERN Stack Projects - If you are working on a full-stack project and need a reliable developer, let’s collaborate!
+MERN Full-Stack Projects - If you are working on a full-stack project and need a reliable developer, let’s collaborate!
 
 ---
 
     🤝 I’m looking for help with **JavaScript Frameworks & Libraries
 
-React, Vue, GSAP, or any cool frameworks to enhance web development.
+Three JS, Next JS or any cool frameworks to enhance web development.
 
 ---
 
@@ -55,7 +55,7 @@ Frontend and Full-Stack Development
 
     📫 Reach me at 
     
-[dasaripraveenkumar2000@gmail.com](mailto:dasaripraveenkumar2000@gmail.com)
+[dasaripraveenkumar2000@gmail.com](mailto:dasaripraveenkumar2000+github@gmail.com)
 
 ---
 
@@ -177,7 +177,7 @@ Full-Stack Development
 
 ##  Social Profiles
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-orange?style=for-the-badge&logo=porto&logoColor=white)](https://praveendas.netlify.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-orange?style=for-the-badge&logo=porto&logoColor=white)](https://praveend.netlify.app/)
 
 <a href="https://linkedin.com/in/Praveenkumar-Dasari" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="Linkedin" weight="30px" height="40px" ></a>&nbsp; 
