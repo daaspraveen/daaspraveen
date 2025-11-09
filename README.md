@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="linkedin-banner.png" alt="Dasari Praveenkumar" width="100%">
+  <img src="linkedin-banner.jpg" alt="Dasari Praveenkumar" width="100%">
 </p>
 
 <h3 align="center">👋 Hi, I'm Dasari Praveenkumar</h3>
